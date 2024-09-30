@@ -65,16 +65,6 @@ width: 35%;
     list-style: none;
 }
 
-.header-button:hover {
-    justify-content: center;
-    background-color: #0A1640;
-    border-radius: 10px;
-}
-
-.footer {
-/* margin: 100px 0; */
-}
-
 .nurikimg {
     display: flex;
     align-items: center;
@@ -82,3 +72,26 @@ width: 35%;
     width: 99%;
     height: 1000px;
 }
+
+.header-link:hover {
+    color: #0A1640 ;
+}
+
+.section {
+    width: 100%;
+    margin-top: 150px;
+}
+
+.swiper-wrapper {
+    /* display: flex; */
+     text-align: center;
+}
+
+.swiper-img {
+    max-width: 100%;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }

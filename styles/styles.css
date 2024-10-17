@@ -76,22 +76,3 @@ width: 35%;
 .header-link:hover {
     color: #0A1640 ;
 }
-
-.section {
-    width: 100%;
-    margin-top: 150px;
-}
-
-.swiper-wrapper {
-    /* display: flex; */
-     text-align: center;
-}
-
-.swiper-img {
-    max-width: 100%;
-}
-
-.swiper {
-    width: 600px;
-    height: 300px;
-  }
